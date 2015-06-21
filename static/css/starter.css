@@ -1,3 +1,8 @@
+.dillons img {
+  width: 350px;
+  height: 350px;
+}
+
 a, a:visited {
   color: #000000;
 }

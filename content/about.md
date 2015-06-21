@@ -10,3 +10,5 @@ aliases = [
 
 ### The Dillons work and play in Anchorage, Alaska.
 
+{{< figure src="/img/dillons.jpg" title="M and D" class="dillons">}}
+
