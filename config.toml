@@ -5,12 +5,6 @@ canonifyurls = true
 SectionPagesMenu = "main"
 
 [[menu.main]]
-    name = "Home"
-    weight = 0
-    identifier = "home"
-    url = "/"
-
-[[menu.main]]
     name = "Audio"
     weight = 50
     identifier = "audio"
