@@ -1,3 +1,29 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "https://akdillon.net"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "AKDillon"
+canonifyurls = true
+SectionPagesMenu = "main"
+
+[[menu.main]]
+    name = "Home"
+    weight = 0
+    identifier = "home"
+    url = "/"
+
+[[menu.main]]
+    name = "Audio"
+    weight = 50
+    identifier = "audio"
+    url = "/audio/"
+
+[[menu.main]]
+    name = "About"
+    weight = 100
+    identifier = "about"
+    url = "/about/"
+
+[[menu.main]]
+    name = "Contact"
+    weight = 150
+    identifier = "contact"
+    url = "/contact/"
