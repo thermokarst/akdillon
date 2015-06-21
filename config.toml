@@ -21,3 +21,6 @@ SectionPagesMenu = "main"
     weight = 150
     identifier = "contact"
     url = "/contact/"
+
+[params]
+copyrightyear = "2015"
