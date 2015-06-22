@@ -1,6 +1,6 @@
 +++
 date = "2015-06-21T12:19:11-08:00"
-draft = true
+draft = false
 title = "MRD Civil Engineering Thesis Info"
 aliases = [
     "/pages/mrd-ce-ms/index.html"
