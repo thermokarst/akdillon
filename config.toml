@@ -1,4 +1,4 @@
-baseurl = "https://akdillon.net"
+baseurl = "http://www.akdillon.net"
 languageCode = "en-us"
 title = "AKDillon"
 canonifyurls = true
