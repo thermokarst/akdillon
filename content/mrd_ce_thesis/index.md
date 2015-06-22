@@ -25,7 +25,7 @@ aliases = [
 > the formation of a discrete ice layer was observed in coarse-grained soils.
 > Seven samples were scanned with the μCT scanner at the completion of the
 > warming and cooling tests. The sub-samples scanned were analyzed in 2D
-> cross-sections, and charac- terized as 3D reconstructions. Frost heave induced
+> cross-sections, and characterized as 3D reconstructions. Frost heave induced
 > by the formation of ice was observed in both fine- and coarse-grained soils,
 > including soils that were found to be traditionally non-frost susceptible.
 
@@ -33,4 +33,4 @@ aliases = [
 
 PDF format manuscript, 166 pages. Science Commons, 2012.
 
-
+### [Appendix Material]({{< relref "mrd_ce_thesis/movies.md" >}})
