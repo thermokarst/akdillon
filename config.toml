@@ -4,16 +4,10 @@ title = "AKDillon"
 canonifyurls = true
 
 [[menu.main]]
-    name = "MRD CE Thesis"
-    weight = -30
-    identifier = "mrd_ce_thesis"
-    url = "/mrd_ce_thesis/"
-
-[[menu.main]]
-    name = "Audio"
+    name = "Misc"
     weight = -20
-    identifier = "audio"
-    url = "/audio/"
+    identifier = "misc"
+    url = "/misc/"
 
 [[menu.main]]
     name = "About"
