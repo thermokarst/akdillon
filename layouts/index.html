@@ -2,7 +2,11 @@
 {{ partial "header.html" . }}
 
   <main class="siteContent container">
-    <img src="{{ .Site.BaseURL }}/img/main.jpg" alt="alaska">
+    <div class="row">
+      <div class="column-16">
+        <img src="{{ .Site.BaseURL }}/img/main.jpg" alt="alaska">
+      </div>
+    </div>
   </main>
 
 {{ partial "footer.html" . }}
