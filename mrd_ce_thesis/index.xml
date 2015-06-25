@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mrd_ce_theses on AKDillon</title>
-    <link>http://www.akdillon.net/mrd_ce_thesis/</link>
+    <link>http://localhost:1313/mrd_ce_thesis/</link>
     <description>Recent content in Mrd_ce_theses on AKDillon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jun 2015 15:04:57 -0800</lastBuildDate>
-    <atom:link href="http://www.akdillon.net/mrd_ce_thesis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mrd_ce_thesis/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>MRD CE Thesis Movies (From Manuscript Appendices)</title>
-      <link>http://www.akdillon.net/mrd_ce_thesis/movies/</link>
+      <link>http://localhost:1313/mrd_ce_thesis/movies/</link>
       <pubDate>Sun, 21 Jun 2015 15:04:57 -0800</pubDate>
       
-      <guid>http://www.akdillon.net/mrd_ce_thesis/movies/</guid>
+      <guid>http://localhost:1313/mrd_ce_thesis/movies/</guid>
       <description>
 
 &lt;p&gt;Timelapse movies and uCT renderings (manuscript supplementary info). There are
@@ -353,10 +353,10 @@ quite a few videos stashed here, so please be patient while loading.&lt;/p&gt;
     
     <item>
       <title>MRD Civil Engineering Thesis Info</title>
-      <link>http://www.akdillon.net/mrd_ce_thesis/</link>
+      <link>http://localhost:1313/mrd_ce_thesis/</link>
       <pubDate>Sun, 21 Jun 2015 12:19:11 -0800</pubDate>
       
-      <guid>http://www.akdillon.net/mrd_ce_thesis/</guid>
+      <guid>http://localhost:1313/mrd_ce_thesis/</guid>
       <description>
 
 &lt;h3 id=&#34;abstract:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Abstract&lt;/h3&gt;
@@ -386,7 +386,7 @@ including soils that were found to be traditionally non-frost susceptible.&lt;/p
 
 &lt;p&gt;PDF format manuscript, 166 pages. Science Commons, 2012.&lt;/p&gt;
 
-&lt;h3 id=&#34;appendix-material-hugoshortcode-1:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;http://www.akdillon.net/mrd_ce_thesis/movies&#34;&gt;Appendix Material&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;appendix-material-hugoshortcode-1:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;http://localhost:1313/mrd_ce_thesis/movies&#34;&gt;Appendix Material&lt;/a&gt;&lt;/h3&gt;
 </description>
     </item>
     

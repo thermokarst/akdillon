@@ -13,11 +13,6 @@
     height: 100%;
 }
 
-.dillons img {
-  width: 350px;
-  height: 350px;
-}
-
 a, a:visited {
   color: #000000;
 }
@@ -34,22 +29,23 @@ a:hover {
   font-size: 22px;
   margin-bottom: 0;
 }
+
 @media (min-width: 48em) {
   .logo {
     float: left;
   }
-}
 
-@media (min-width: 48em) {
   .nav {
     float: right;
   }
 }
+
 .nav li {
   display: inline;
   line-height: 3.5;
   margin-left: 25px;
 }
+
 .nav li:first-of-type {
   margin-left: 0;
 }
