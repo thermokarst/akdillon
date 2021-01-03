@@ -2,7 +2,7 @@
 date = "2015-06-21T10:28:06-08:00"
 draft = false
 title = "would.you.do.this.for.me?"
-songurl = "http://storage.googleapis.com/thermokarst-misc/mrd_audio/wouldyoudothisforme.mp3"
+songurl = "https://storage.googleapis.com/thermokarst-misc/mrd_audio/wouldyoudothisforme.mp3"
 weight = -80
 
 +++

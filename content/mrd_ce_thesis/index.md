@@ -29,7 +29,7 @@ aliases = [
 > by the formation of ice was observed in both fine- and coarse-grained soils,
 > including soils that were found to be traditionally non-frost susceptible.
 
-### [Download](http://storage.googleapis.com/thermokarst-misc/ce_thesis/MRDillonCEThesisManuscript.pdf)
+### [Download](https://storage.googleapis.com/thermokarst-misc/ce_thesis/MRDillonCEThesisManuscript.pdf)
 
 PDF format manuscript, 166 pages. Science Commons, 2012.
 

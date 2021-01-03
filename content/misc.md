@@ -5,7 +5,6 @@ title = "Misc"
 
 +++
 
-[MRD CE Thesis](/mrd_ce_thesis/)
+[MRD CE Thesis]({{< relref "mrd_ce_thesis" >}})
 
-[Audio](/audio/)
-
+[Audio]({{< relref "/audio" >}})
