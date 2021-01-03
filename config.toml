@@ -1,4 +1,4 @@
-baseurl = "http://www.akdillon.net"
+baseurl = "https://www.akdillon.net"
 languageCode = "en-us"
 title = "AKDillon"
 canonifyurls = true
@@ -22,4 +22,4 @@ canonifyurls = true
     url = "/contact/"
 
 [params]
-copyrightyear = "2016"
+copyrightyear = "2021"
