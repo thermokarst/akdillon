@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AKDillon</title>
+    <link>https://www.akdillon.net/mrd_ce_thesis/</link>
+    <description>Recent content on AKDillon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jun 2015 15:04:57 -0800</lastBuildDate><atom:link href="https://www.akdillon.net/mrd_ce_thesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MRD CE Thesis Movies (From Manuscript Appendices)</title>
+      <link>https://www.akdillon.net/mrd_ce_thesis/movies/</link>
+      <pubDate>Sun, 21 Jun 2015 15:04:57 -0800</pubDate>
+      
+      <guid>https://www.akdillon.net/mrd_ce_thesis/movies/</guid>
+      <description>Timelapse movies and uCT renderings (manuscript supplementary info). There are quite a few videos stashed here, so please be patient while loading.
+μCT Videos JSI08     JSI01     JCL01     JSI02     JSA01     CSA01     JGR01     Timelapse Videos JSI08     JSI01     JCL02     JCL01     JSI02     JSI03     JSI04     JSI05     JSA02     JSA01     JSA04     JGR01     </description>
+    </item>
+    
+    <item>
+      <title>MRD Civil Engineering Thesis Info</title>
+      <link>https://www.akdillon.net/mrd_ce_thesis/</link>
+      <pubDate>Sun, 21 Jun 2015 12:19:11 -0800</pubDate>
+      
+      <guid>https://www.akdillon.net/mrd_ce_thesis/</guid>
+      <description>Abstract  Frost heave is typically associated with the formation of segregation ice in fine-grained soil. Coarse-grained soil is generally considered to be non-frost susceptible. Field observations and laboratory experiments show that coarse-grained soil can be extremely ice-rich in specific conditions. Previous studies have shown that oscillation of the frozen-unfrozen boundary can lead to the formation of ice by a mechanism different from the segregation ice mechanism. Conditions related to the formation of ice in coarse-grained soil were investigated using modern laboratory techniques.</description>
+    </item>
+    
+  </channel>
+</rss>
