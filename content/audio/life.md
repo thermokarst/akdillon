@@ -7,5 +7,4 @@ weight = -100
 
 +++
 
-2006.
-rough cut.
+2006. rough cut.

@@ -33,4 +33,4 @@ aliases = [
 
 PDF format manuscript, 166 pages. Science Commons, 2012.
 
-### [Appendix Material]({{ relref . "movies.md" }})
+### [Appendix Material]({{< relref "mrd_ce_thesis/movies" >}})

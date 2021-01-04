@@ -7,7 +7,4 @@ weight = -30
 
 +++
 
-2001.
-jeskola buzz and cep.
-making music in a closet with two computers.
-gangsta beats.
+2001. jeskola buzz and cep. making music in a closet with two computers.

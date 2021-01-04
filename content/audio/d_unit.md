@@ -8,4 +8,3 @@ weight = -20
 +++
 
 circa fall 2008. this track reeks of garageband (im talking to you, dance kit).
-kick it old school.

@@ -7,6 +7,4 @@ weight = -130
 
 +++
 
-2011.
-"artsy noise" is still just noise.
-
+2011. "artsy noise" is still just noise.

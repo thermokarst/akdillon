@@ -7,5 +7,4 @@ weight = -80
 
 +++
 
-2007.
-i keep planting this seedling, but it wont grow. maybe this season...
+2007. i keep planting this seedling, but it wont grow. maybe this season...
